@@ -1,3 +1,4 @@
+
 # 🛡️ ScreenGuard – Digital Wellbeing & App Time Restriction
 
 A full-stack MERN web application that lets you set daily time limits for apps, track usage in real-time via Socket.io, and block access with a secure PIN-protected overlay when limits are reached.
@@ -255,3 +256,6 @@ Click **Analytics** in the sidebar to see:
 - Real-time blocking uses **Socket.io** (replaces Android's `UsageStatsManager` + `AccessibilityService`)
 - WorkManager is replaced by **Socket.io background timers** that run server-side
 - Room Database / SharedPreferences replaced by **MongoDB + JWT localStorage**
+
+# Screen-Guard
+Nowadays, people rely on their smartphones more than ever, especially for social media and entertainment. The problem is, all that screen time chips away at productivity, focus, and even mental health. A bunch of digital wellbeing apps have popped up to tackle this think Google Digital Wellbeing and ActionDash. 7952a247c0996696ba570d46bbdaa5038dd347b9
